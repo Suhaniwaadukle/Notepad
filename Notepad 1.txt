@@ -1,0 +1,35 @@
+Introduction:-
+          The Project proposal is Notepad, a text editor.
+          Notepad is a basic text editor that you can use to create simple documents.The most commonuse for Notepad is to view or edit text (.txt) files. 
+          Using C++, this Notepad was created with the sole intent on learning more about C++.
+
+Theory:-
+         This application is a Notepad in C++.This Notepad Application developed in a C++ platform is a replication of the word editors we all are familiar with and which we use quite often on a daily basis.
+         The only difference being that,this Notepad has been created using C++ for the front-end interface and some new features.
+         The text edited in the application is stored in the desired location like-("D:\\file\\document.txt").
+         Choosing a program to write a document Each provides basictext editing capability.
+
+Cross operating system service:-
+        Notepad is a basic text editor that is most commonly used to view or edit .txt files.
+        Text-only files are critical if you share documents with someone using another operating system such as Macintosh or UNIX. 
+
+Multiple languages:-
+       Notepad allow you to save your files in different formats, such as Unicode, providing you greater flexibility when working with documents that use different character setsor documents created by other programs.
+
+MORE:-
+       Change Font size
+       Create new files
+       Modify exiting files
+       Dark and Light mode available
+       Encryption-Lock file
+       Common type-Copy,paste,cut,delete,find text
+       Shortcut to delete previously typed word
+       Status bar
+       Wrap-Around
+       Text zooming
+       Search text with Bing in Notepad
+       Support for the UNIX-style End Of Line (EOL) Characters.
+       Insert a timeline every time you open a document
+       Customize Header and Footer
+       Insert the date and time
+       
