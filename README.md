@@ -1,2 +1,7 @@
-# Notepad
-own Application
+Features:-
+Copy
+Paste
+Cut
+Paste
+Print
+Font
